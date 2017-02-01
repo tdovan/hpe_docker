@@ -2,7 +2,7 @@
 FROM        ubuntu
 
 # File Author / Maintainer
-MAINTAINER Tan Do Van
+MAINTAINER Tan Do Van (tan.dovan@hpe.com)
 
 # Update the repository and install Redis Server
 RUN         apt-get update && apt-get install -y redis-server
