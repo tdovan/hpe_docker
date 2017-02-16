@@ -1,9 +1,6 @@
 # hpe_docker
 
-Automatic Build to Jenkins\n
-Build the image\n
-Push the image to the DTR\n
-Run the Image on UCP\n
+Automatic Build to Jenkins, Build the image, Push the image to the DTR, Run the Image on UCP
 
 1/ edit a file
 2/ create a pull request
